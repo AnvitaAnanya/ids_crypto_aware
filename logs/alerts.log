@@ -1,0 +1,127 @@
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'auth' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'auth' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'auth' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'admin' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'auth' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'username' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'password' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'admin' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'username' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'password' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'admin' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'username' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'password' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'admin' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'username' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'password' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'admin' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'creditcard' in plain text!
+[ALERT] [!] Suspicious keyword detected: 'username' in plain text!
+[ALERT] [!] Suspicious keyword detected: 'password' in plain text!
+[ALERT] [!] Suspicious keyword detected: 'admin' in plain text!
+[ALERT] [!] Suspicious keyword detected: 'token' in plain text!
+[ALERT] [!] Suspicious keyword detected: 'creditcard' in plain text!
+[ALERT] [!] Suspicious pattern detected: b'Credit Card' found in plain text!
+[ALERT] [!] Suspicious keyword detected: 'password' in plain text!
+[ALERT] [!] Suspicious keyword detected: 'session' in plain text!
+[ALERT] [!] Suspicious keyword detected: 'login' in plain text!
+[ALERT] [!] Suspicious keyword detected: 'admin' in plain text!
+[ALERT] [!] Suspicious keyword detected: 'login' in plain text!
+[ALERT] [!] Suspicious keyword detected: 'admin' in plain text!
+[ALERT] [!] Suspicious keyword detected: 'social_security_number' in plain text!
+[ALERT] [!] Suspicious pattern detected: b'SSN' found in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'username' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'token' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'creditcard' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'password' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'session' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'social_security_number' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'username' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'creditcard' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'password' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'social_security_number' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'username' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'creditcard' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'password' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'social_security_number' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'username' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'creditcard' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'password' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'social_security_number' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'username' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'creditcard' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'password' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'social_security_number' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'username' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'creditcard' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'password' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'username' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'creditcard' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'password' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'username' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'creditcard' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'password' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'social_security_number' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'username' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'creditcard' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'password' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'social_security_number' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'username' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'creditcard' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'password' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'social_security_number' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'username' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'creditcard' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'password' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'social_security_number' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'username' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'creditcard' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'password' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'login' in plain text!
+[ALERT] [!] Suspicious packet detected: keyword 'social_security_number' in plain text!
